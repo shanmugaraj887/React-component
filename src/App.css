@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.chart-box {
+  width: 500px;
+  padding: 30px;
+  background-color: white;
+  margin: 25px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 2px 2px 20px black
+}
+
+.doughnut-box {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 2px 2px 20px black;
+  height: 270px;
+  width: 270px;
+  margin: 15px;
+}
